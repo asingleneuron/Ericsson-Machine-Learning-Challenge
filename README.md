@@ -4,7 +4,7 @@ This repository contains the winning solution of  Ericsson Machine Learning Hack
 Interested to learn more about the approach :
 # [BLOGPOST](https://asingleneuron.blogspot.com/2019/06/ericsson-ml-challenge-winning-solution.html)
 
-# [YOUTUBE VIDEO]()
+# [YOUTUBE VIDEO](https://www.youtube.com/watch?v=DW6gUvb8U8c)
 
 
 
